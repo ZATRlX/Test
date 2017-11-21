@@ -1,7 +1,2 @@
 Test de Git
 lol ce que tu veux
-<<<<<<< HEAD
-DX
-=======
-XD
->>>>>>> master
