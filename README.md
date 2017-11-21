@@ -1,5 +1,4 @@
 test gitkraken
 
 Ce prjet ntm
-
-Il sert à rien
+Il sert à faire pleins de choses
